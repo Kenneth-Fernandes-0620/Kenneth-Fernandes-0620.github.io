@@ -72,6 +72,10 @@ td {
   font-size: 1.2rem;
   line-height: 1.5;
 }
+.mod-sec{
+  text-shadow: #ffffff 0px 0px 2px;
+  -webkit-font-smoothing: antialiased;
+}
 .display-7 > .mbr-iconfont {
   font-size: 1.5rem;
 }
